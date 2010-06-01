@@ -1,0 +1,1 @@
+cmd_/home/ereslibre/proyectos/modulos-kernel/modulo5/main.ko := ld -r -m elf_i386  --build-id -o /home/ereslibre/proyectos/modulos-kernel/modulo5/main.ko /home/ereslibre/proyectos/modulos-kernel/modulo5/main.o /home/ereslibre/proyectos/modulos-kernel/modulo5/main.mod.o
